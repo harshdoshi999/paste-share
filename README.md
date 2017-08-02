@@ -44,6 +44,6 @@ paste.get(token, function(err, res){
 
 This module has been tested under limited scenarios. If you find any issue please feel free to report via one of the below platforms:
 
-Github: <a href="https://github.com/harshdoshi999/paste-share/issues">nutrient-database</a> | 
+Github: <a href="https://github.com/harshdoshi999/paste-share/issues">paste-share</a> | 
 Email: harshdoshi999@gmail.com | 
 Skype: harshxxx3
